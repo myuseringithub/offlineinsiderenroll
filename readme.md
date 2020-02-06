@@ -1,6 +1,7 @@
 OfflineInsiderEnroll
 --------------------
 
+
 ### Description
 OfflineInsiderEnroll is a simple Windows Command Prompt script to enable access
 to the Windows Insider Program on machines not signed in with Microsoft Account.
